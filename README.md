@@ -1,17 +1,9 @@
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
-
 ###
 
-<h2 align="left">Hi 👋! My name is Abdullah Masykur and I'm a  Informatics Management Student from Satet University of Surabaya</h2>
+<h2 align="left">Hi 👋! My name is Abdullah Masykur 
 
 ###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Masykster&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Masykster&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
 
 ###
 
@@ -60,11 +52,7 @@
 
 ###
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/Masykster/Masykster/output/snake.svg" alt="Snake animation" />
-
-###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Masykster/Masykster/output/pacman-contribution-graph-dark.svg">
@@ -77,11 +65,3 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Masykster.Masykster&"  />
 </div>
-
-###
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
-
-###
