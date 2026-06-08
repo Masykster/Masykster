@@ -1,8 +1,10 @@
 ###
 
-<h2 align="left">Hi 👋! My name is Abdullah Masykur 
+<h2 align="center">Hi 👋! My name is Abdullah Masykur 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=masykster&" alt="masykster" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=masykster&theme=radical" alt="masykster" />
+</p>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
