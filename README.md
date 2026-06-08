@@ -2,6 +2,8 @@
 
 <h2 align="center">Hi 👋! My name is Abdullah Masykur 
 
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Masykster?cardType=octocat&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=masykster&theme=radical" alt="masykster" />
 </p>
