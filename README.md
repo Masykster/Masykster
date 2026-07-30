@@ -5,9 +5,9 @@
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=Masykster&screen_effect=true&theme=rainbow">
-  <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=Masykster&screen_effect=true&theme=rainbow">
-  <img alt="Pixel Profile Stats" src="https://pixel-profile.vercel.app/api/github-stats?username=Masykster&screen_effect=true&theme=rainbow">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Masykster/Masykster/output/github-stats.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Masykster/Masykster/output/github-stats.svg">
+  <img alt="Pixel Profile Stats" src="https://raw.githubusercontent.com/Masykster/Masykster/output/github-stats.svg">
 </picture>
 
 <p align="center">
