@@ -2,12 +2,13 @@
 
 <h2 align="center">Hi 👋! My name is Abdullah Masykur 
 
+###
 
-
-<p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Masykster&theme=radical" alt="Grafik Detail Kontribusi" height="195px" />
-  
-  
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=Masykster&screen_effect=true&theme=rainbow">
+  <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=Masykster&screen_effect=true&theme=rainbow">
+  <img alt="Pixel Profile Stats" src="https://pixel-profile.vercel.app/api/github-stats?username=Masykster&screen_effect=true&theme=rainbow">
+</picture>
 
 <p align="center">
   <a href="https://github.com/Masykster">
