@@ -80,15 +80,20 @@
   </a>
 </div>
 
+
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/31sn65aueb6uhx7dzuat5iy7xdky">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31sn65aueb6uhx7dzuat5iy7xdky&count=5&unique=false" alt="Spotify recently played"  />
+  <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=31sn65aueb6uhx7dzuat5iy7xdky">
+    <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31sn65aueb6uhx7dzuat5iy7xdky" alt="Data Card for Spotify">
   </a>
 </div>
 
 ###
+
+<div align="center">
+  <img src="https://duolingo-stats-card.vercel.app/api?username=frutescen&theme=dark" alt="Duolingo Stats" />
+</div>
 
 <div align="center">
   <img src="https://duolingo-stats-card.vercel.app/api?username=frutescen&theme=dark" alt="Duolingo Stats" />
