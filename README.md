@@ -95,9 +95,6 @@
   <img src="https://duolingo-stats-card.vercel.app/api?username=frutescen&theme=dark" alt="Duolingo Stats" />
 </div>
 
-<div align="center">
-  <img src="https://duolingo-stats-card.vercel.app/api?username=frutescen&theme=dark" alt="Duolingo Stats" />
-</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Masykster/Masykster/output/pacman-contribution-graph-dark.svg">
