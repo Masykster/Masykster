@@ -25,10 +25,10 @@ jobs:
         uses: LuciNyan/pixel-profile/action@main
         with:
           outputs: |
-            dist/github-stats?username=LuciNyan&screen_effect=false&theme=fuji&dithering=true&hide=avatar
-            dist/github-stats-dark?username=LuciNyan&theme=crt
+            dist/github-stats?username=Masykster&screen_effect=false&theme=fuji&dithering=true&hide=avatar
+            dist/github-stats-dark?username=Masykster&theme=crt
           crt_outputs: |
-            dist/github-stats-crt?username=LuciNyan&include_all_commits=true
+            dist/github-stats-crt?username=Masykster&include_all_commits=true
 
       # push the content of <build_dir> to a branch
       # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
