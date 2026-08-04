@@ -1,7 +1,11 @@
-![Github Card Generator](https://pixel-profile.vercel.app/api/github-stats?username=Masykster&theme=rainbow&background=linear-gradient(135deg%2C%23000000%2C%23808080)&hide=rank)
-<br>
-
-<div align="center">
+<!-- GITHUBWALLPAPER:START -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://pub-98d2cd4dac4e4a9d899b190ba95f3ace.r2.dev/cards/p155hq3r1g6fyunndhryx5yn-dark.svg?v=1785813968949">
+  <source media="(prefers-color-scheme: light)" srcset="https://pub-98d2cd4dac4e4a9d899b190ba95f3ace.r2.dev/cards/p155hq3r1g6fyunndhryx5yn-light.svg?v=1785813968949">
+  <img alt="GitHub profile card" src="https://pub-98d2cd4dac4e4a9d899b190ba95f3ace.r2.dev/cards/p155hq3r1g6fyunndhryx5yn-dark.svg?v=1785813968949">
+</picture>
+<p align="right"><sub><a href="https://githubwallpaper.com">made with githubwallpaper.com</a></sub></p>
+<!-- GITHUBWALLPAPER:END -->
 
 | | |
 |:---:|:---:|
@@ -26,11 +30,3 @@
 
 
 
-<!-- GITHUBWALLPAPER:START -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://pub-98d2cd4dac4e4a9d899b190ba95f3ace.r2.dev/cards/p155hq3r1g6fyunndhryx5yn-dark.svg?v=1785813968949">
-  <source media="(prefers-color-scheme: light)" srcset="https://pub-98d2cd4dac4e4a9d899b190ba95f3ace.r2.dev/cards/p155hq3r1g6fyunndhryx5yn-light.svg?v=1785813968949">
-  <img alt="GitHub profile card" src="https://pub-98d2cd4dac4e4a9d899b190ba95f3ace.r2.dev/cards/p155hq3r1g6fyunndhryx5yn-dark.svg?v=1785813968949">
-</picture>
-<p align="right"><sub><a href="https://githubwallpaper.com">made with githubwallpaper.com</a></sub></p>
-<!-- GITHUBWALLPAPER:END -->
