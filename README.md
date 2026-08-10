@@ -6,10 +6,6 @@
 </picture>
 <!-- GITHUBWALLPAPER:END -->
 
-| | |
-|:---:|:---:|
-| [![Gitanimals](https://render.gitanimals.org/farms/Masykster)](https://www.gitanimals.org/en-US?utm_medium=image&utm_source=Masykster&utm_content=farm) | ![Duolingo Stats](https://duolingo-stats-card.vercel.app/api?username=frutescen&theme=dark) |
-
 </div>
 
 
