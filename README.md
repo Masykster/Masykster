@@ -48,13 +48,9 @@
 
 ###
 
-<a href="https://t1seo.github.io/maeul-in-the-sky/">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/masykster/masykster/main/maeul-in-the-sky-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/masykster/masykster/main/maeul-in-the-sky-light.svg">
-    <img alt="@masykster" src="https://raw.githubusercontent.com/masykster/masykster/main/maeul-in-the-sky-dark.svg" width="100%">
-  </picture>
-</a>
+<p align="center">
+  <img src="assets/space-shooter.gif" />
+</p>
 
 <div align="center">
 
